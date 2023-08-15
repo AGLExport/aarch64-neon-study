@@ -1,0 +1,19 @@
+R-Car H3 CA57 1.5GHz/CA53 1.2GHz
+
+CA57:
+Nomal imp.
+5120000 sample per 78244513(ns) - 78(ms)
+48KHz 2ch: 1,468us/s
+Neon imp.
+5120000 sample per 29275197(ns) - 29(ms)
+48KHz 2ch: 549us/s
+
+CA53:
+Nomal imp.
+5120000 sample per 175177301(ns) - 175(ms)
+48KHz 2ch: 3,287us/s
+
+Neon imp.
+5120000 sample per 60559083(ns) - 60(ms)
+48KHz 2ch: 1,136us/s
+
